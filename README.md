@@ -1,4 +1,4 @@
-Hi, I'm Vilitryx. Currently I've been working on some projects about digitalizing school system and the same time learning new frameworks and languages. Fun fact, I'm billingual! but I preffered using English than my native language :) I will open to collaborations, just hit me up on my socials!
+Hi, I'm Vilitryx, a vocational school student who working on some projects about digitalizing school system and the same time learning new frameworks and languages. Fun fact, I'm billingual! but I preffered using English than my native language :) I'm alwasy open to collaborations, just hit me up on my socials!
 
 
 ## My Socials:
@@ -31,7 +31,7 @@ Hi, I'm Vilitryx. Currently I've been working on some projects about digitalizin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" />
   &nbsp;&nbsp;
   <!-- GitHub -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48" style="filter: invert(1);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48" style="filter: invert(0);" />
 </p>
 
 # GitHub Stats:
