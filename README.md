@@ -1,4 +1,4 @@
-Hi, I'm Vilitryx, a vocational school student who working on some projects about digitalizing school system and the same time learning new frameworks and languages. Fun fact, I'm billingual! but I preffered using English than my native language :) I'm alwasy open to collaborations, just hit me up on my socials!
+Hi, I'm Vilitryx, a vocational school student who working on some projects about digitalizing school system and at the same time learning new frameworks and languages. Fun fact, I'm billingual! but I preffered using English than my native language :) I'm always open to collaborations, just hit me up on my socials!
 
 
 ## My Socials:
