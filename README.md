@@ -6,17 +6,17 @@ Hi, I'm Vilitryx, a vocational school student who working on some projects about
 
 # Tech Stack:
 <p align="left">
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
+  &nbsp;&nbsp;
   <!-- Node.js -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
   &nbsp;&nbsp;
-  <!-- Express.js (Warna putih/terang agar terlihat di GitHub Dark Mode) -->
+  <!-- Express.js -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="filter: invert(1);" />
   &nbsp;&nbsp;
   <!-- Next.js -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" style="filter: invert(1);" />
-  &nbsp;&nbsp;
-  <!-- NestJS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="48" height="48" />
   &nbsp;&nbsp;
   <!-- PostgreSQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
@@ -31,7 +31,7 @@ Hi, I'm Vilitryx, a vocational school student who working on some projects about
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" />
   &nbsp;&nbsp;
   <!-- GitHub -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48" style="filter: invert(0);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48" style="filter: invert(1);" />
 </p>
 
 # GitHub Stats:
