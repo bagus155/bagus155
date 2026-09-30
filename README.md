@@ -36,7 +36,6 @@ Hi, I'm Vilitryx, a vocational school student who working on some projects about
 </p>
 
 # GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bagus155&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=bagus155&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bagus155&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
